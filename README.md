@@ -1,6 +1,6 @@
 # Hi, I'm Yuan 👋
 
-Backend developer based in Lima, Peru 🇵🇪  
+Backend developer based in Ayacucho, Peru 🇵🇪  
 I build APIs, microservices and data pipelines with a polyglot stack.
 
 ## Tech stack
@@ -30,8 +30,7 @@ I build APIs, microservices and data pipelines with a polyglot stack.
 
 ## GitHub stats
 
-![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccirhack&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccirhack&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ccirhack&hide_border=true)](https://git.io/streak-stats)
 
 ## Contact
 
