@@ -30,9 +30,9 @@ I build APIs, microservices and data pipelines with a polyglot stack.
 
 ## GitHub stats
 
-![Yuan's GitHub stats](https://github.com/Ccirhack)
+![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccirhack&show_icons=true&theme=default&hide_border=true)
 
 ## Contact
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuan-retamozo/)](https://linkedin.com/in/Ccirhack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuan-retamozo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yretamozovilca@gmail.com)
