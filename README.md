@@ -30,7 +30,7 @@ I build APIs, microservices and data pipelines with a polyglot stack.
 
 ## GitHub stats
 
-![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccirhack&show_icons=true&theme=default&hide_border=true)
+![Yuan's GitHub stats](https://github.com/Ccirhack)
 
 ## Contact
 
