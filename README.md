@@ -32,7 +32,7 @@ I build APIs, microservices and data pipelines with a polyglot stack.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ccirhack&hide_border=true)](https://git.io/streak-stats)
 
-## GitHub Snake 🐍
+## GitHub Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ccirhack/Ccirhack/output/github-contribution-grid-snake-dark.svg" />
