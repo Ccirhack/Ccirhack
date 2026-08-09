@@ -1,4 +1,4 @@
-# Hi, I'm Yuan 👋
+# Hi, I'm Yuan
 
 Backend developer based in Ayacucho, Peru 🇵🇪  
 I build APIs, microservices and data pipelines with a polyglot stack.
